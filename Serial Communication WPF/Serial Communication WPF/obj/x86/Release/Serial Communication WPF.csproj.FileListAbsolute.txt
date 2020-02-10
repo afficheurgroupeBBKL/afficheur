@@ -1,0 +1,28 @@
+C:\Users\foxtr\Desktop\Serial Communication WPF\Serial Communication WPF\bin\Release\Serial Communication WPF.exe
+C:\Users\foxtr\Desktop\Serial Communication WPF\Serial Communication WPF\bin\Release\Serial Communication WPF.pdb
+C:\Users\foxtr\Desktop\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\Serial Communication WPF.csprojAssemblyReference.cache
+C:\Users\foxtr\Desktop\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\ConnectButton.baml
+C:\Users\foxtr\Desktop\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\MainWindow.baml
+C:\Users\foxtr\Desktop\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\App.baml
+C:\Users\foxtr\Desktop\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\MainWindow.g.cs
+C:\Users\foxtr\Desktop\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\App.g.cs
+C:\Users\foxtr\Desktop\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\Serial Communication WPF_MarkupCompile.cache
+C:\Users\foxtr\Desktop\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\Serial Communication WPF.g.resources
+C:\Users\foxtr\Desktop\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\Serial_Communication_WPF.Properties.Resources.resources
+C:\Users\foxtr\Desktop\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\Serial Communication WPF.csproj.GenerateResource.cache
+C:\Users\foxtr\Desktop\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\Serial Communication WPF.exe
+C:\Users\foxtr\Desktop\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\Serial Communication WPF.pdb
+U:\Documents\001_Développement Logiciel\16_Journal_lumineux\Serial Communication WPF\Serial Communication WPF\bin\Release\Serial Communication WPF.exe
+U:\Documents\001_Développement Logiciel\16_Journal_lumineux\Serial Communication WPF\Serial Communication WPF\bin\Release\Serial Communication WPF.pdb
+U:\Documents\001_Développement Logiciel\16_Journal_lumineux\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\Serial Communication WPF.csprojAssemblyReference.cache
+U:\Documents\001_Développement Logiciel\16_Journal_lumineux\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\ConnectButton.baml
+U:\Documents\001_Développement Logiciel\16_Journal_lumineux\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\MainWindow.baml
+U:\Documents\001_Développement Logiciel\16_Journal_lumineux\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\App.baml
+U:\Documents\001_Développement Logiciel\16_Journal_lumineux\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\MainWindow.g.cs
+U:\Documents\001_Développement Logiciel\16_Journal_lumineux\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\App.g.cs
+U:\Documents\001_Développement Logiciel\16_Journal_lumineux\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\Serial Communication WPF_MarkupCompile.cache
+U:\Documents\001_Développement Logiciel\16_Journal_lumineux\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\Serial Communication WPF.g.resources
+U:\Documents\001_Développement Logiciel\16_Journal_lumineux\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\Serial_Communication_WPF.Properties.Resources.resources
+U:\Documents\001_Développement Logiciel\16_Journal_lumineux\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\Serial Communication WPF.csproj.GenerateResource.cache
+U:\Documents\001_Développement Logiciel\16_Journal_lumineux\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\Serial Communication WPF.exe
+U:\Documents\001_Développement Logiciel\16_Journal_lumineux\Serial Communication WPF\Serial Communication WPF\obj\x86\Release\Serial Communication WPF.pdb
